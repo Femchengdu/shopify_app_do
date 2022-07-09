@@ -1,0 +1,1 @@
+# Testing a Shopify App deployment on Digital ocean
